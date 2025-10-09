@@ -1,5 +1,5 @@
 # | André Ghirotti - Java Developer  🇧🇷 
-<table>
+<table border="0">
 <tr>
   <td><img src="pfp.png" alt="Profile picture" width="150" height="150" /></td>
   <td>
@@ -16,6 +16,7 @@
   </td>
 </tr>
 </table>
+
 
 
 
