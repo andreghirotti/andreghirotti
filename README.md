@@ -1,4 +1,4 @@
-<img src="linkdnpfp.jpg" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
+<img src="pfp.png" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
 # | André Ghirotti - Java Developer 
 
 ## 🌐 Social
