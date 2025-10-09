@@ -13,7 +13,7 @@ I enjoy solving different problems I find along the way, exploring new technolog
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-010101.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ##
 <img src="pfp.png" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
