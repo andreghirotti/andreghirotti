@@ -1,14 +1,6 @@
 # | André Ghirotti - Java Developer  🇧🇷 
-
-
-## 🌐 Social 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-aguiar-b4993b33b/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@imthrones/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreghirotti)
-
-
-
-
+👋 I’m André, a 19-year-old Java developer from Brazil with a passion for coding and technology. 
+I enjoy solving different problems I find along the way, exploring new technologies, and continuously improving my programming skills.
 
 ## 💻 Languages
 
@@ -25,3 +17,8 @@
 
 
 <img src="pfp.png" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
+
+## 🌐 Social 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-aguiar-b4993b33b/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@imthrones/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreghirotti)
