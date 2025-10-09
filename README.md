@@ -1,5 +1,5 @@
 # | André Ghirotti - Java Developer  🇧🇷 
-<img src="pfp.png" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
+
 
 ## 🌐 Social 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-aguiar-b4993b33b/)
@@ -24,3 +24,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
+<img src="pfp.png" alt="Profile picture" width="150" height="150" style="border-radius:50%; border:3px solid green;" />
