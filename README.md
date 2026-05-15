@@ -1,5 +1,5 @@
 # | André Ghirotti - Java Developer  🇧🇷 
-👋 I’m André, a 19-year-old Java developer from Brazil with a passion for coding and technology. 
+👋 I’m André, a 19-year-old Java developer from Brazil with a passion for coding and technology. Currently studying Control and Automation Engineering at UNICAMP.
 I enjoy solving different problems I find along the way, exploring new technologies, and continuously improving my programming skills.
 
 ## 💻 Languages
